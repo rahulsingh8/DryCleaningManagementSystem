@@ -1,0 +1,1 @@
+This foler contains the database file. Attach it to the application before running it. 

@@ -1,0 +1,18 @@
+D:\sheridan\sem 5\C#\project\Project\DryCleaningManagementSystem\DryCleaningManagementSystem\bin\DryCleaningManagementSystem.dll.config
+D:\sheridan\sem 5\C#\project\Project\DryCleaningManagementSystem\DryCleaningManagementSystem\bin\DryCleaningManagementSystem.dll
+D:\sheridan\sem 5\C#\project\Project\DryCleaningManagementSystem\DryCleaningManagementSystem\bin\DryCleaningManagementSystem.pdb
+D:\sheridan\sem 5\C#\project\Project\DryCleaningManagementSystem\DryCleaningManagementSystem\obj\Debug\DryCleaningManagementSystem.csprojResolveAssemblyReference.cache
+D:\sheridan\sem 5\C#\project\Project\DryCleaningManagementSystem\DryCleaningManagementSystem\obj\Debug\DryCleaningManagementSystem.dll
+D:\sheridan\sem 5\C#\project\Project\DryCleaningManagementSystem\DryCleaningManagementSystem\obj\Debug\DryCleaningManagementSystem.pdb
+B:\college\5th Semester\C#.Net\Project\Final Project\Project FinalUpdated\Project\DryCleaningManagementSystem\DryCleaningManagementSystem\bin\DryCleaningManagementSystem.dll.config
+B:\college\5th Semester\C#.Net\Project\Final Project\Project FinalUpdated\Project\DryCleaningManagementSystem\DryCleaningManagementSystem\bin\DryCleaningManagementSystem.dll
+B:\college\5th Semester\C#.Net\Project\Final Project\Project FinalUpdated\Project\DryCleaningManagementSystem\DryCleaningManagementSystem\bin\DryCleaningManagementSystem.pdb
+B:\college\5th Semester\C#.Net\Project\Final Project\Project FinalUpdated\Project\DryCleaningManagementSystem\DryCleaningManagementSystem\obj\Debug\DryCleaningManagementSystem.csprojResolveAssemblyReference.cache
+B:\college\5th Semester\C#.Net\Project\Final Project\Project FinalUpdated\Project\DryCleaningManagementSystem\DryCleaningManagementSystem\obj\Debug\DryCleaningManagementSystem.dll
+B:\college\5th Semester\C#.Net\Project\Final Project\Project FinalUpdated\Project\DryCleaningManagementSystem\DryCleaningManagementSystem\obj\Debug\DryCleaningManagementSystem.pdb
+B:\college\college\Sem 5\5th Semester\C#.Net\Project\Final Project\Project FinalUpdated\Project\DryCleaningManagementSystem\DryCleaningManagementSystem\bin\DryCleaningManagementSystem.dll.config
+B:\college\college\Sem 5\5th Semester\C#.Net\Project\Final Project\Project FinalUpdated\Project\DryCleaningManagementSystem\DryCleaningManagementSystem\bin\DryCleaningManagementSystem.dll
+B:\college\college\Sem 5\5th Semester\C#.Net\Project\Final Project\Project FinalUpdated\Project\DryCleaningManagementSystem\DryCleaningManagementSystem\bin\DryCleaningManagementSystem.pdb
+B:\college\college\Sem 5\5th Semester\C#.Net\Project\Final Project\Project FinalUpdated\Project\DryCleaningManagementSystem\DryCleaningManagementSystem\obj\Debug\DryCleaningManagementSystem.csprojResolveAssemblyReference.cache
+B:\college\college\Sem 5\5th Semester\C#.Net\Project\Final Project\Project FinalUpdated\Project\DryCleaningManagementSystem\DryCleaningManagementSystem\obj\Debug\DryCleaningManagementSystem.dll
+B:\college\college\Sem 5\5th Semester\C#.Net\Project\Final Project\Project FinalUpdated\Project\DryCleaningManagementSystem\DryCleaningManagementSystem\obj\Debug\DryCleaningManagementSystem.pdb
